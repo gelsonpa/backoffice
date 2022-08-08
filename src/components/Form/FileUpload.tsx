@@ -1,8 +1,9 @@
-import { Input, FormControl, FormLabel, InputGroup, InputLeftElement, FormErrorMessage, Code, Icon } from "@chakra-ui/react";
+ import { Input, FormControl, FormLabel, InputGroup, InputLeftElement, FormErrorMessage, Code, Icon } from "@chakra-ui/react";
 import { FiFile } from "react-icons/fi";
 import { useController } from "react-hook-form";
 import { useRef } from "react";
 
+/*
 const FileUpload = ({ name, placeholder, acceptedFileTypes, control, children, isRequired=false }) => {
   const inputRef = useRef();
   const {
@@ -36,4 +37,4 @@ const FileUpload = ({ name, placeholder, acceptedFileTypes, control, children, i
   );
 }
 
-export default FileUpload;
+export default FileUpload; */
